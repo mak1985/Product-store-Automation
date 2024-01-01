@@ -1,0 +1,7 @@
+[INFO ] 2024-01-01 12:45:44.616 [main] LoginTest - Able to launch the url
+[INFO ] 2024-01-01 12:45:49.004 [main] LoginTest - Able to click on logIn text link
+[INFO ] 2024-01-01 12:45:49.799 [main] LoginTest - Able to see log in window popup display
+[INFO ] 2024-01-01 12:45:51.537 [main] LoginTest - Able to enter username
+[INFO ] 2024-01-01 12:45:52.720 [main] LoginTest - Able to enter password
+[INFO ] 2024-01-01 12:45:53.526 [main] LoginTest - Able to navigate to home page successfully
+[INFO ] 2024-01-01 12:45:58.850 [main] LoginTest - Able to click on log in button
